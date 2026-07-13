@@ -64,7 +64,3 @@ The generated `example_result.csv` uses the same 61-channel order as the model o
   doi           = {10.48550/arXiv.2512.11321}
 }
 ```
-
-## Acknowledgement
-
-The lightweight inference release and MetaHuman CSV interface are inspired by [SemanticFace](https://github.com/kangzejian1896/SemanticFace).
