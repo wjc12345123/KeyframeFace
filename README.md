@@ -2,8 +2,6 @@
 
 ![KeyframeFace Architecture](./image/teaser.jpg)
 
-Official inference code for **KeyframeFace: Language-Driven Facial Animation via Semantic Keyframes**.
-
 [Paper](https://arxiv.org/abs/2512.11321) | [Model](https://modelscope.cn/models/chaochaooooooo/KeyframeFace) | [Dataset](https://modelscope.cn/datasets/chaochaooooooo/KeyframeFace_Dataset)
 
 KeyframeFace generates sparse, semantically meaningful facial keyframes from language. Each keyframe is represented by 52 ARKit blendshapes and 9 head/eye pose parameters, and can be used directly in an ARKit/MetaHuman animation pipeline.
